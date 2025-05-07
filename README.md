@@ -1,6 +1,5 @@
-👋
 
-I'll make documentation for a lot of things, but I draw the line at myself.
+:no_good:I'll make documentation for a lot of things, but I draw the line at myself.:no_good:
 <!-- GitHub Streak Stats -->
 ![GitHub Streak Dark Mode](https://streak-stats.demolab.com/?user=anjo-mi&theme=dark#gh-dark-mode-only)
 
