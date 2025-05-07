@@ -1,6 +1,6 @@
-## Hello World! 👋
+👋
 
-This is my DRY profile.
+I'll make documentation for a lot of things, but I draw the line at myself.
 <!-- GitHub Streak Stats -->
 ![GitHub Streak Dark Mode](https://streak-stats.demolab.com/?user=anjo-mi&theme=dark#gh-dark-mode-only)
 
