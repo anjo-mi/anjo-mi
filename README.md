@@ -1,12 +1,9 @@
 ## Hello World! 👋
 
-
-## 🔥 My Stats
+This is my DRY profile.
 <!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anjo-mi)](https://git.io/streak-stats)
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=anjo-miE&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <!--
 ## 🔧 Technologies & Tools
