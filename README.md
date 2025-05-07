@@ -2,7 +2,7 @@
 
 This is my DRY profile.
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anjo-mi)](https://git.io/streak-stats)
+![GitHub Streak Dark Mode](https://streak-stats.demolab.com/?user=anjo-mi&theme=dark#gh-dark-mode-only)
 
 
 <!--
